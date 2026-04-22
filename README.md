@@ -52,3 +52,18 @@ This project demonstrates a complete **End-to-End DevOps CI/CD pipeline** for de
 ---
 
 ## 📂 Repository Structure
+├── Jenkinsfile
+├── Dockerfile
+├── kubernetes/
+│ ├── deployment.yaml
+│ └── service.yaml
+├── src/
+└── README.md
+
+## ⭐ Acknowledgement
+
+This project is part of my DevOps learning journey and demonstrates real-world CI/CD pipeline implementation for cloud-native applications.
+
+---
+
+## 🚀 Happy Learning!
